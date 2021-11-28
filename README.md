@@ -4,9 +4,9 @@ A Basic SolidJS App with CRUD operations
 
 ### Tech Stack
 
-**Client:** SolidJS
-**Server:** Node
-**Styling**: Styled Components
+- **Client:** SolidJS
+- **Server:** Node
+- **Styling**: Styled Components
 
 ### Concepts covered
 
